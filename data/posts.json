@@ -1,0 +1,26 @@
+[
+  {
+    "postId": 1758516036974,
+    "content": "Computers",
+    "author": "Anna",
+    "tags": [
+      "Javascript",
+      "HTML"
+    ],
+    "createdAt": "2025-09-22T04:40:36.974Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": 1758515967293,
+    "content": "Hello World",
+    "author": "Emily",
+    "tags": [
+      "fun",
+      "intro"
+    ],
+    "createdAt": "2025-09-22T04:39:27.293Z",
+    "likes": 0,
+    "status": "published"
+  }
+]
